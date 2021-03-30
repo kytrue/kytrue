@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, golang, java, javascript. 
 - 🌱 I’m currently learning flask, react. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email is kycube@outlook.com. Go to my [github page](kytrue.github.io). 
+- 📫 My email is kycube@outlook.com. Go to my [github page](https://kytrue.github.io). 
 
 <!---
 kytrue/kytrue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
